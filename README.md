@@ -8,11 +8,6 @@ The project is going to be developed as a website that will allow the user to lo
 
 The following guide will explain in detail how to configure the development environment and all the tools required for the project. Therefore, it is essential not to skip any installation step.
 
-[[_TOC_]]
-
-#**Programs**
-
-
 ##**1. Python**
 Python will be used Version: 3.9.1 According to OS
 - Windows: [Python](https://www.python.org/downloads/)
@@ -33,28 +28,12 @@ o To check if everything was fine, run in terminal: pip --version
 Django you must have the previous steps installed and after this using pip run in cmd for Windows or in bash for Linux
 - Command: `pip install Django == 3.1.6`
 
-##**4. Development environment**
-
-Visual studio code is required for the environment. This can be downloaded from the official website: [Vs code](https://code.visualstudio.com/ )
-
-- Once the development environment is installed, select the option ![image.png](/.attachments/image-eaf9dc49-13c6-4d8e-938f-86917e1cb0d8.png) to install the following extensions:
-
-![image.png](/.attachments/image-69735118-6695-466e-89e9-d9e3fc6469ae.png)
-![image.png](/.attachments/image-75121198-ccb3-4b3d-a2de-b6cd0ec5cfd6.png)
-![image.png](/.attachments/image-51607e31-7648-4e38-bc33-1e3efcb25b2a.png)
-![image.png](/.attachments/image-8716ea92-f0d3-41a4-af3b-a349aa7c31e8.png)
 ##**5. Git**
 
 To install git it depends on your os
 
 - **Windows**
-Use the following link: [Git](https://git-scm.com/)
-![image.png](/.attachments/image-44e7d458-0cd7-4442-8cde-d2c45e5ed810.png)
-
-  Select download
-  ![image.png](/.attachments/image-6b3f80c5-e5cc-4eae-95aa-fccceb5a0db1.png)
-
-  Watch this video to install and set up git and put your username and mail [Tutorial](https://www.youtube.com/watch?v=GaaAdAdfRuQ&ab_channel=CodingLeader)
+  Use the following link: [Git](https://git-scm.com/)
 
 - **Linux**
 
@@ -64,7 +43,7 @@ Use the following link: [Git](https://git-scm.com/)
 
   **Note: the first two commands are required to run if you are using git for the first time**
 
-  ![carbon (21).png](/.attachments/carbon%20(21)-e069b2e3-8235-426b-88d9-01a199681448.png)
+  ![carbon (21).png](https://media.discordapp.net/attachments/429146219223449601/899014025713705040/Items_1.png)
 
   for more info see [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
