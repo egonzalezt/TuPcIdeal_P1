@@ -1,14 +1,26 @@
-# TuPcIdeal_P1
+# **TuPcIdeal**
 
-#About this project
+Now you can visit our webpage on 
+
+[TuPcIdeal](http://tupcideal.tk/)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=0d1012b30ecf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[[_TOC_]]
+
+#**Project Members**
+
+@<ESTEBAN GONZALEZ TAMAYO> 
+@<ESTEBAN SIERRA PATIÑO> 
+@<Juan Diego Mejia Vargas> 
+# About this project
 
 The project is going to be developed as a website that will allow the user to look up different types of computers and also give them information about the parts that every computer has, the result That will be shown are going to be based on information that the user will provide us before starting the search.
 
-**Project setup**
+# **Project setup**
 
 The following guide will explain in detail how to configure the development environment and all the tools required for the project. Therefore, it is essential not to skip any installation step.
 
-##**1. Python**
+## **1. Python**
 Python will be used Version: 3.9.1 According to OS
 - Windows: [Python](https://www.python.org/downloads/)
 - Ubuntu on terminal type sudo apt-get update then sudo apt-get install python3.9.1
@@ -16,19 +28,19 @@ Python will be used Version: 3.9.1 According to OS
 o Windows: Python –version
 o Linux: Python3 --version
 
-##**2. Pip**
+## **2. Pip**
 
 To install pip, the Windows console will be used ('cmd') or using Linux from bash, the following command must be executed once Python is installed in the previous step.
 
 - Command: python get-pip.py
 o To check if everything was fine, run in terminal: pip --version
 
-##**3. Django**
+## **3. Django**
 
 Django you must have the previous steps installed and after this using pip run in cmd for Windows or in bash for Linux
 - Command: `pip install Django == 3.1.6`
 
-##**5. Git**
+## **5. Git**
 
 To install git it depends on your os
 
@@ -47,7 +59,7 @@ To install git it depends on your os
 
   for more info see [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-##**6. Node**
+## **6. Node**
 
 To work on the frontend you need to install Node.js to run the frontend server
 
