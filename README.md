@@ -5,14 +5,12 @@ Now you can visit our webpage on
 [TuPcIdeal](http://tupcideal.tk/)
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=0d1012b30ecf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-[[_TOC_]]
 
-#**Project Members**
+# **Project Members**
 
-@<ESTEBAN GONZALEZ TAMAYO> 
-@<ESTEBAN SIERRA PATIÑO> 
-@<Juan Diego Mejia Vargas> 
-# About this project
+- Esteban Gonzalez Tamayo
+- Esteban Sierra Patiño
+- Juan Diego Mejia Vargas
 
 The project is going to be developed as a website that will allow the user to look up different types of computers and also give them information about the parts that every computer has, the result That will be shown are going to be based on information that the user will provide us before starting the search.
 
