@@ -65,7 +65,7 @@ to install node on windows open this link and continue with the install [Node](h
 
 On Linux follow this tutorial [Installation of Node.js on Linux
 ](https://www.geeksforgeeks.org/installation-of-node-js-on-linux/)
-###6.1 Npm 
+### 6.1 Npm 
 
 To install react and the others require libraries to the project you need to install npm to do this you need to install first Node.js then on the terminal run `npm install npm@latest -g`
 
